@@ -1,7 +1,7 @@
 ### Olá! eu sou a Desireê Costa 🤙🏻
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/desireê-costa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/des1ree_c/)https://www.instagram.com/des1ree_c/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/des1ree_c/)https://www.instagram.com/des1ree_c/)
 
 ![Desireê GitHub stats](https://github-readme-stats.vercel.app/api?username=DesireeCost4&show_icons=true&theme=dracula)
 
