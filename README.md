@@ -6,8 +6,6 @@
 
 ![Desireê GitHub stats](https://github-readme-stats.vercel.app/api?username=DesireeCost4&show_icons=true&theme=dracula)
 
-https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
 ## Tecnologias que utilizo: 
 <div style= "display: inline_block"> <br>
 
