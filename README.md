@@ -18,13 +18,6 @@
 
   
  </div>
- 
- ## Tecnologias que estou estudando: 
- 
- <div style= "display: inline_block"> <br>
- </div>
-
-
 
 
 
