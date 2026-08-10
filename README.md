@@ -2,13 +2,13 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas  e Telemática. Apaixonada por desenvolvimento full-stack, automação e resolução de problemas através de código.
 
---- <img aling="center" alt="IF" src="https://img.shields.io/badge/IFPB-008000?style=for-the-badge" />
+<img aling="center" alt="IF" src="https://img.shields.io/badge/IFPB-008000?style=for-the-badge" />
 
 ###  Sobre mim
 *  Graduando em **Análise e Desenvolvimento de Sistemas** 
 *  Atualmente desenvolvendo aplicações em **Java (Spring Boot)** e **Angular**
 *  Interessada em: **Sistemas Web, Automação/Microcontroladores (ESP32)** e **Projetos de Código Aberto**
-*  Como me encontrar: [Seu LinkedIn](https://linkedin.com/in/seu-perfil) | [Seu E-mail](mailto:seu-email@email.com)
+*  Como me encontrar: [Seu LinkedIn](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/desiree-cost4/) | [Seu E-mail](desireec.dev@gmail.com)
 
 ---
 
