@@ -8,17 +8,17 @@ Estudante de Análise e Desenvolvimento de Sistemas  e Telemática. Apaixonada p
 *  Graduando em **Análise e Desenvolvimento de Sistemas** 
 *  Atualmente desenvolvendo aplicações em **Java (Spring Boot)** e **Angular**
 *  Interessada em: **Sistemas Web, Automação/Microcontroladores (ESP32)** e **Projetos de Código Aberto**
-*  Como me encontrar: [Seu LinkedIn](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/desiree-cost4/) | [Seu E-mail](desireec.dev@gmail.com)
+*  Como me encontrar: [https://www.linkedin.com/in/desiree-cost4/] | [Seu E-mail](desireec.dev@gmail.com)
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
