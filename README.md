@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas  e Telemática. Apaixonada p
 *  Graduando em **Análise e Desenvolvimento de Sistemas** 
 *  Atualmente desenvolvendo aplicações em **Java (Spring Boot)** e **Angular**
 *  Interessada em: **Sistemas Web, Automação/Microcontroladores (ESP32)** e **Projetos de Código Aberto**
-*  Como me encontrar: [(https://www.linkedin.com/in/desiree-cost4/)] | [Seu E-mail](desireec.dev@gmail.com)
+*  Como me encontrar: [(https://www.linkedin.com/in/desiree-cost4/)] | [Seu E-mail](desireec.dev@gmail.com)]
 
 ---
 
