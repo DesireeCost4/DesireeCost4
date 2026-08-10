@@ -1,27 +1,27 @@
-### Olá! sou a Desireê Costa 
+# Olá, sou Desireê Costa! 
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/desireê-costa)
+Estudante de Análise e Desenvolvimento de Sistemas  e Telemática. Apaixonada por desenvolvimento full-stack, automação e resolução de problemas através de código.
 
-<img aling="center" alt="IF" src="https://img.shields.io/badge/IFPB-008000?style=for-the-badge" />
+--- <img aling="center" alt="IF" src="https://img.shields.io/badge/IFPB-008000?style=for-the-badge" />
+
+###  Sobre mim
+*  Graduando em **Análise e Desenvolvimento de Sistemas** 
+*  Atualmente desenvolvendo aplicações em **Java (Spring Boot)** e **Angular**
+*  Interessada em: **Sistemas Web, Automação/Microcontroladores (ESP32)** e **Projetos de Código Aberto**
+*  Como me encontrar: [Seu LinkedIn](https://linkedin.com/in/seu-perfil) | [Seu E-mail](mailto:seu-email@email.com)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-
-
-## Tecnologias que utilizo: 
-<div style= "display: inline_block"> <br>
-
-
-<img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img aling="center" alt="Java" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img aling="center" alt="Docker" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Springboot" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-
-
-
-  
- </div>
 
 
 
