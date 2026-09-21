@@ -5,9 +5,12 @@ Estudante de Análise e Desenvolvimento de Sistemas  e Telemática. Apaixonada p
 <img aling="center" alt="IF" src="https://img.shields.io/badge/IFPB-008000?style=for-the-badge" />
 
 ###  Sobre mim
-*  Graduando em **Análise e Desenvolvimento de Sistemas** 
+
+*  Cursando - **Técnico em Informática** 
+*  Graduando em **Análise e Desenvolvimento de Sistemas**
+*  Residente em Games **IFPB**
 *  Atualmente desenvolvendo aplicações em **Java (Spring Boot)** e **Angular**
-*  Interessada em: **Sistemas Web, Automação/Microcontroladores (ESP32)** e **Projetos de Código Aberto**
+*  Interessada em: **Sistemas Web, Automação/Microcontroladores** e **Projetos de Código Aberto**
 
 
 ---
